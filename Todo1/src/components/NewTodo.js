@@ -91,6 +91,7 @@ const styles = {
     },
     addText: {
         fontSize: 20,
-        textAlign: 'center'
+        textAlign: 'center',
+        color: 'white'
     }
 }
